@@ -4,11 +4,8 @@ html {
     margin: 0;
     padding: 0;
     height: 100%;
-/* The Font Family- Really important!! */
-.sigmar-one-regular {
-    font-family: "Sigmar One", sans-serif;
-}
-
+    /* The Font Family- Really important!! */
+    font-family: "Sigmar one", sans-serif;
     box-sizing: border-box;
 }
 
@@ -80,4 +77,9 @@ img {
     color: rgb(243, 225, 225);
     text-align: right;
     padding: 3em 3em;
+}
+.sigmar-one-regular {
+  font-family: "Sigmar One", sans-serif;
+  font-weight: 400;
+  font-style: normal;
 }
