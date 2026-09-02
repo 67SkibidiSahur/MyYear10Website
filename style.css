@@ -4,8 +4,13 @@ html {
     margin: 0;
     padding: 0;
     height: 100%;
-    /* The Font Family- Really important!! */
-    font-family: Arial, sans-serif;
+/* The Font Family- Really important!! */
+.sigmar-one-regular {
+    font-family: "Sigmar One", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
     box-sizing: border-box;
 }
 
